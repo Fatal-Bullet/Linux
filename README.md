@@ -9,3 +9,4 @@ Como rodar o programa:
 Escolher opção:
 ```bash
 $ ./main.sh -l
+```

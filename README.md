@@ -7,3 +7,4 @@ Como rodar o programa:
 ```
 
 Escolher opção:
+```bash

@@ -5,3 +5,5 @@ Como rodar o programa:
 ```bash
  $ ./main.sh
 ```
+
+Escolher opção:
